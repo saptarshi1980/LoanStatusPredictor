@@ -1,0 +1,1 @@
+# Application of Logistic Rwegression to Find out whether Loan is accepted or not
